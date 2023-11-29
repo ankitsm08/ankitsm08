@@ -5,16 +5,17 @@ I'm a 17-year-old student passionate about computer science, programming, data s
 ## About Me
 
 - 🎓 Studying in class 11 science stream
-- 💻 Programming in Python and C++
+- 💻 Programming in Python, C and C++
+- 📏 Know basic HTML, CSS and javascript
 - 🖥️ Using Visual Studio Code for coding
 - ☕ Also familiar with JAVA (used for school projects)
-- 🤖 Interest in robotics and automation
+- 🤖 Interest in robotics, data science and automation
 
 ## How to Reach Me
 
 - GitHub: [@ankitsm08](https://github.com/ankitsm08)
 
-## Interests
+## Interests 
 
 - 📚 Love for puzzles and problems
 - ♟️ Enjoy playing chess and checkers
