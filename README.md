@@ -1,12 +1,12 @@
 # Hello, I'm Ank! 👋
 
-I'm a 17-year-old student passionate about computer science, programming, data science, physics, chemistry, and mathematics. Currently studying in class 11 science stream with aspirations to join IIT in the future. My interests extend to machine learning, deep learning, robotics, and automation.
+I'm a 17-year-old student passionate about computer science, programming, data science, physics, chemistry, and mathematics. Currently studying in Class 11 Science Stream with aspirations to join IIT in the future. My interests extend to machine learning, deep learning, robotics, and automation.
 
 ## About Me
 
-- 🎓 Studying in class 11 science stream
+- 🎓 Studying in Class 11 Science Stream
 - 💻 Programming in Python, C and C++
-- 📏 Know basic HTML, CSS and javascript
+- 📏 Know basic HTML, CSS and Javascript
 - 🖥️ Using Visual Studio Code for coding
 - ☕ Also familiar with JAVA (used for school projects)
 - 🤖 Interest in robotics, data science and automation
