@@ -11,7 +11,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.giphy.com/2IudUHdI075HL02Pkk.webp">
 
-- 🎓 Studying in **Class 11 Science Stream***
+- 🎓 Studying in **Class 11 Science Stream**
 - 💻 Programming in **Python, C and C++**
 - 📏 Know basic HTML, CSS and Javascript
 - 🖥️ Using **Visual Studio Code** for coding
