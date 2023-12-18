@@ -1,7 +1,3 @@
-<a href="https://www.youtube.com/channel/UCUmr9u48gs_37NxNR0GmdBA" target="_blank">
-  <img src="https://raw.githubusercontent.com/ankitsm08/ankitsm08/main/assets/banner.gif" style="width: 180vw; height: auto;" alt="MasterHead">
-</a>
-
 <h1 align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
   Hi, I'm Ank! 
