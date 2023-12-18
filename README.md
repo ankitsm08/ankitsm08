@@ -1,4 +1,6 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://www.youtube.com/channel/UCUmr9u48gs_37NxNR0GmdBA)
+<a href="https://www.youtube.com/channel/UCUmr9u48gs_37NxNR0GmdBA" target="_blank">
+  <img src="https://raw.githubusercontent.com/ankitsm08/ankitsm08/main/assets/banner.gif" style="width: 180vw; height: auto;" alt="MasterHead">
+</a>
 
 <h1 align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
@@ -16,32 +18,31 @@
   I'm a 17-year-old student passionate about computer science, programming, data science, physics, chemistry, and mathematics. Currently studying in Class 11 Science Stream with aspirations to join IIT in the future. My interests extend to machine learning, deep learning, robotics, and automation.
 </p>
 
-<div>
-  <h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="25" height="25"> About Me</h2>
-  
-  <img align="right" alt="Coding" width="256" src="https://i.giphy.com/2IudUHdI075HL02Pkk.webp">
-  
-  - 🎓 Studying in **Class 11 Science Stream**
-  - 💻 Programming in **Python, C and C++**
-  - 📏 Know basic HTML, CSS and Javascript
-  - 🖥️ Using **Visual Studio Code** for coding
-  - ☕ Also familiar with **JAVA** *(used for school projects)*
-  - 🌱 I’m currently learning **networking, database management**
-  - 🤖 Interest in **robotics, data science and automation**
+-----
 
-</div>
+<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="25" height="25"> About Me</h2>
 
-<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="25" height="25"> How to Reach Me</h2>
+- 🎓 Studying in **Class 11 Science Stream**
+- 💻 Programming in **Python, C and C++**
+- 📏 Know basic HTML, CSS and Javascript
+- 🖥️ Using **Visual Studio Code** for coding
+- ☕ Also familiar with **JAVA** *(used for school projects)*
+- 🌱 I’m currently learning **networking, database management**
+- 🤖 Interest in **robotics, data science and automation**
+
+<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="25" height="20"> How to Reach Me</h2>
 
 - GitHub: [@ankitsm08](https://github.com/ankitsm08)
 - Email: [ankitsm08@gmail.com](ankitsm08@gmail.com)
 
-<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f_200d_1f525/512.gif" alt="❤" width="25" height="25"> Interests</h2>
+<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f_200d_1f525/512.gif" alt="❤" width="25" height="25" margin="0 0 -10 0"> Interests</h2>
 
 - 📚 Love for puzzles and problems
 - ♟️ Enjoy playing **chess and checkers**
 - 🏸 Occasionally play **badminton**
 - 📺 Fun fact - I like to watch **anime and movies** in free time
+
+<h1></h1>
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="20" height="20"> Feel free to explore my GitHub repositories and connect with me on GitHub! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="20" height="20">
 
