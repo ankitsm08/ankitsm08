@@ -13,7 +13,7 @@
 <h1></h1>
 
 <p align="left">
-  I'm a 17-year-old student passionate about computer science, programming, data science, physics, chemistry, and mathematics. Currently studying in Class 12 Science Stream with aspirations to join IIT in the future. My interests extend to machine learning, deep learning, robotics, and automation.
+  I'm a 18-year-old student passionate about computer science, programming, data science, physics, chemistry, and mathematics. Currently studying in Class 12 Science Stream with aspirations to join IIT in the future. My interests extend to machine learning, deep learning, robotics, and automation.
 </p>
 
 -----
