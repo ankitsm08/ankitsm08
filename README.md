@@ -7,6 +7,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=2000&center=true&vCenter=true&random=true&width=480&height=30&lines=Always+learning+new+things.;Continuous+coding%2C+perpetual+learning.;Coding+my+dreams+into+reality.)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=ankitsm08&color=blue&style=for-the-badge)
 </div>
 
 <h1></h1>
