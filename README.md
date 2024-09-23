@@ -10,21 +10,21 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ankitsm08&color=blue&style=for-the-badge)
 </div>
 
-<h1></h1>
+#
 
-<p align="left">
-  I'm a 18-year-old student passionate about computer science, programming, data science, physics, chemistry, and mathematics. Currently studying in Class 12 Science Stream with aspirations to join IIT in the future. My interests extend to machine learning, deep learning, robotics, and automation.
-</p>
+I'm a 18-year-old student passionate about computer science, programming, data science, physics, chemistry, and mathematics. Currently studying in Class 12 Science Stream with aspirations to join IIT in the future. My interests extend to machine learning, deep learning, robotics, and automation.
+
 
 -----
 
-<h2 align="left">😎 About Me 👨‍💻</h2>
+## 😎 About Me 👨‍💻
 
-- 🎓 Studying in **Class 12 Science Stream**
+- 🎓 Studying in **Class 12 Computer Science Stream**
 - 🌱 I’m currently learning **networking, database management and frontend**
 - 🤖 Interest in **robotics, data science and automation**
 
-<h3 align="left">🛠️ Languages and Tools ⚙️</h3><div>
+### 🛠️ Languages and Tools ⚙️
+<div>
   <p align="left">
     <kbd><a href="https://www.microsoft.com/windows" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" height="32"/></a></kbd>
     <kbd><a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" height="32"/></a></kbd>
@@ -63,19 +63,20 @@
 </div>
 
 
-<h2 align="left">👀 How to Reach Me 📧</h2>
+## 👀 How to Reach Me 📧
 
+- Website: [ankitsm08.github.io](https://ankitsm08.github.io)
 - GitHub: [@ankitsm08](https://github.com/ankitsm08)
 - Email: [ankitsm08@gmail.com](ankitsm08@gmail.com)
 
-<h2 align="left">💖 Interests ⚡</h2>
+## 💖 Interests ⚡
 
 - 📚 Love for puzzles and problems
 - ♟️ Enjoy playing **chess and checkers**
 - 🏸 Occasionally play **badminton**
 - 📺 Fun fact - I like to watch **anime and movies** in free time
 
-<h1></h1>
+#
 
 ✨ Feel free to explore my GitHub repositories and connect with me on GitHub! 🚀
 
