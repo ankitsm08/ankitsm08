@@ -12,8 +12,7 @@
 
 #
 
-I'm a 18-year-old student passionate about computer science, programming, data science, physics, chemistry, and mathematics. Currently studying in Class 12 Science Stream with aspirations to join IIT in the future. My interests extend to machine learning, deep learning, robotics, and automation.
-
+I'm an 18-year-old nerd who loves everything from code to quarks. Currently surviving Class 12 Science with an unhealthy obsession for computer science, programming, data science, physics, chemistry, and mathematics. When I'm not buried in books or battling equations, you’ll find me dabbling in robotics, and automation. Basically, if it's geeky, I'm probably into it!
 
 -----
 
