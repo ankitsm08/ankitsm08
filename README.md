@@ -46,10 +46,11 @@ I'm an 18-year-old nerd who loves everything from code to quarks. Currently surv
     <kbd><code><a href="https://vitejs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" height="32"/></a></code></kbd>
     <kbd><code><a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" height="32"/></a></code></kbd>
     <kbd><code><a href="https://www.markdownguide.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" height="32"/></a></code></kbd>
+    <kbd><code><a href="https://www.markdownguide.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" alt="markdown" height="32"/></a></code></kbd>
     <kbd><code><a href="https://jekyllrb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" alt="jekyll" height="32"/></a></code></kbd>
     <kbd><code><a href="https://www.latex-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="latex" height="32"/></a></code></kbd>
     <kbd><code><a href="https://tug.org/texlive/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg" alt="tex" height="32"/></a></code></kbd>
-    <kbd><code><a href="https://yaml.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="yaml" height="32"/></a></code></kbd>
+    <kbd><code><a href="https://gohugo.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="yaml" height="32"/></a></code></kbd>
   </p>
   <p align="left">
     <kbd><code><a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" height="32"/></a></code></kbd>
