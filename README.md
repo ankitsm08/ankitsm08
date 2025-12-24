@@ -2,7 +2,7 @@
   👋 Hi, I'm Ank! ⭐
 </h1>
 
-![hero](https://github.com/user-attachments/assets/870a235c-0439-43fd-9595-5bb49c1621c2)
+![hero](https://github.com/ankitsm08/ankitsm08/blob/main/assets/hero.jpg?raw=true)
 
 ---
 
