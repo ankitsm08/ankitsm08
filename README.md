@@ -195,8 +195,11 @@ Basically, if it's geeky, I'm probably into it!
 </div>
 
 ---
-
-<img src="https://raw.githubusercontent.com/ankitsm08/ankitsm08/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <!---
 ankitsm08/ankitsm08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
