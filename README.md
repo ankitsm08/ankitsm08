@@ -180,6 +180,8 @@ Basically, if it's geeky, I'm probably into it!
   <img width="12" />
   <a href="https://www.blender.org/" target="_blank"><img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender"/></a>
   <img width="12" />
+  <a href="https://www.audacityteam.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/audacity.svg" height="34" alt="Audacity"/></a>
+  <img width="12" />
   <a href="https://gohugo.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hugo.svg" height="36" alt="Hugo"/></a>
   <img width="12" />
   <a href="https://jekyllrb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jekyll.svg" height="32" alt="Jekyll"/></a>
