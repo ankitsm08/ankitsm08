@@ -208,8 +208,8 @@ Basically, if it's geeky, I'm probably into it!
   
   [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ankitsm08&show_icons=true&theme=github_dark)](https://github.com/ankitsm08)
   <img width="12" />
-  [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ankitsm08&theme=github_dark)](https://github.com/ankitsm08)
-
+  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ankitsm08&theme=dark-minimalist&border_radius=7.5&card_width=360)](https://github.com/ankitsm08)
+  <!--- [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ankitsm08&theme=github_dark)](https://github.com/ankitsm08) --->
 </div>
 
 <div align="center">
