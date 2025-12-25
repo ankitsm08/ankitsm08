@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hi, I'm Ank! ⭐
+  <em> Hi, I'm Ank! </em>
 </h1>
 
 ![hero](https://github.com/ankitsm08/ankitsm08/blob/main/assets/hero.jpg?raw=true)
@@ -9,13 +9,13 @@
 <div align="center">
 <h3 align="center">A passionate student from India.</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=2000&center=true&vCenter=true&random=true&width=480&height=30&lines=Always+learning+new+things.;Continuous+coding%2C+perpetual+learning.;Coding+my+dreams+into+reality.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=2000&center=true&vCenter=true&random=true&color=736AFF&width=480&height=30&lines=Always+learning+new+things.;Continuous+coding%2C+perpetual+learning.;Coding+my+dreams+into+reality.)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ankitsm08&color=blueviolet&style=for-the-badge)
 </div>
 
 
-<h2 align="center"> 😎 About Me 👨‍💻 </h2>
+<h2 align="center"> About Me </h2>
 
 <table align="center"><tr><td>
 <div align="center">
@@ -28,7 +28,7 @@ Basically, if it's geeky, I'm probably into it!
 </div>
 </td></tr></table>
 
-<h2 align="center"> 💖 Interests ⚡ </h2>
+<h3 align="center"> Interests </h3>
 <table align="center"><tr><td>
 <div align="center">
   
@@ -44,17 +44,17 @@ Basically, if it's geeky, I'm probably into it!
 
 ---
 
-<h3 align="center"> ⚡🧠🔧 My Stack 💻🧪💥 </h3>
+<h2 align="center"> My Stack </h2>
 
 <h4 align="center"> Operating Systems & Environment </h4>
 <p align="center">
-  <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows"/></a>
+  <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://skillicons.dev/icons?i=windows" height="42" alt="Windows"/></a>
   <img width="12" />
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux"/></a>
   <img width="12" />
-  <a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu"/></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" height="44" alt="Ubuntu"/></a>
   <img width="12" />
-  <a href="https://www.kali.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kali" height="40" alt="Kali"/></a>
+  <a href="https://www.kali.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kali" height="44" alt="Kali"/></a>
   <img width="12" />
   <a href="https://www.android.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="36" width="36" alt="Android"/></a>
 </p>
@@ -86,11 +86,15 @@ Basically, if it's geeky, I'm probably into it!
   <img width="12" />
   <a href="https://www.portainer.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" height="40" alt="Portainer"/></a>
   <img width="12" />
-  <a href="https://nginx.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" height="40" alt="NGINX"/></a>
+  <a href="https://nginx.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" height="36" alt="NGINX"/></a>
   <img width="12" />
   <a href="https://caddyserver.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/caddy.svg" height="40" alt="Caddy"/></a>
   <img width="12" />
-  <a href="https://traefik.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/traefik-proxy.svg" height="40" alt="Caddy"/></a>
+  <a href="https://traefik.io/traefik" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/traefik-proxy.svg" height="40" alt="Caddy"/></a>
+  <img width="12" />
+  <a href="https://n8n.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/n8n.webp" width="36" alt="n8n"/></a>
+  <img width="12" />
+  <a href="https://gotify.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gotify.svg" height="40" alt="Gotify"/></a>
 </p>
 
 <h4 align="center"> Programming Languages </h4>
@@ -134,6 +138,8 @@ Basically, if it's geeky, I'm probably into it!
   <a href="https://www.latex-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=latex" height="40" alt="LaTeX"/></a>
   <img width="12" />
   <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter"/></a>
+  <img width="12" />
+  <a href="https://excalidraw.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/excalidraw.svg" height="36" alt="Excalidraw"/></a>
 </p>
 
 <h4 align="center"> Data Science, ML & Visualization </h4>
@@ -157,7 +163,7 @@ Basically, if it's geeky, I'm probably into it!
   <img width="12" />
   <a href="https://www.sqlalchemy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="SQLAlchemy"/></a>
   <img width="12" />
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL"/></a>
   <img width="12" />
   <a href="https://hoppscotch.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hoppscotch/hoppscotch-original.svg" height="40" alt="Hoppscotch"/></a>
 </p>
@@ -181,7 +187,7 @@ Basically, if it's geeky, I'm probably into it!
 
 ---
 
-<h2 align="center"> 👀 How to Reach Me 📧 </h2>
+<h2 align="center"> How to Reach Me </h2>
 <div align="center">
   <a href="https://github.com/ankitsm08" target="_blank"><img src="https://img.shields.io/badge/GitHub-3d444d?logo=github&logoColor=white&style=for-the-badge" height="40" alt="Github"/></a>
   <img width="12" />
@@ -198,31 +204,31 @@ Basically, if it's geeky, I'm probably into it!
 
 <p align="center">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ankitsm08&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ankitsm08&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitsm08&show_icons=true&theme=dark" />
-</picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ankitsm08&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ankitsm08&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=ankitsm08&show_icons=true&theme=dark" />
+  </picture>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ankitsm08&theme=dark&border_radius=7.5)](https://github.com/ankitsm08)
+  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ankitsm08&theme=dark-minimalist&border_radius=7.5)](https://github.com/ankitsm08)
 
 </p>
 
-<a href="https://github.com/ankitsm08">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitsm08/ankitsm08/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitsm08/ankitsm08/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ankitsm08/ankitsm08/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-</a>
-
-<div>
+<div align="center">
+  <a href="https://github.com/ankitsm08">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitsm08/ankitsm08/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitsm08/ankitsm08/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ankitsm08/ankitsm08/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+  </a>
+  
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
