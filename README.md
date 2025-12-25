@@ -196,11 +196,35 @@ Basically, if it's geeky, I'm probably into it!
 
 ---
 
+<p align="center">
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ankitsm08&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ankitsm08&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitsm08&show_icons=true&theme=dark" />
+</picture>
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ankitsm08&theme=dark&border_radius=7.5)](https://github.com/ankitsm08)
+
+</p>
+
+<a href="https://github.com/ankitsm08">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitsm08/ankitsm08/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitsm08/ankitsm08/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ankitsm08/ankitsm08/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+</a>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 <!---
 ankitsm08/ankitsm08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
