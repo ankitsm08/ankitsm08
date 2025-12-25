@@ -204,28 +204,18 @@ Basically, if it's geeky, I'm probably into it!
 
 ---
 
-<p align="center">
+<div align="center">
+  
+  [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ankitsm08&show_icons=true&theme=github_dark)](https://github.com/ankitsm08)
+  <img width="12" />
+  [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ankitsm08&theme=github_dark)](https://github.com/ankitsm08)
 
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ankitsm08&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ankitsm08&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=ankitsm08&show_icons=true&theme=dark" />
-  </picture>
-
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ankitsm08&theme=dark-minimalist&border_radius=7.5)](https://github.com/ankitsm08)
-
-</p>
+</div>
 
 <div align="center">
   <a href="https://github.com/ankitsm08">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitsm08/ankitsm08/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/ankitsm08/ankitsm08/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitsm08/ankitsm08/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/ankitsm08/ankitsm08/output/github-contribution-grid-snake-dark.svg" />
   </picture>
