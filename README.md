@@ -48,6 +48,8 @@ Basically, if it's geeky, I'm probably into it!
 
 <h4 align="center"> Operating Systems & Environment </h4>
 <p align="center">
+  <a href="https://archlinux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=arch" height="42" alt="Arch"/></a>
+  <img width="12" />
   <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://skillicons.dev/icons?i=windows" height="42" alt="Windows"/></a>
   <img width="12" />
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux"/></a>
@@ -63,13 +65,17 @@ Basically, if it's geeky, I'm probably into it!
 <p align="center">
   <a href="https://neovim.io/" target="_blank"><img src="https://skillicons.dev/icons?i=neovim" height="40" alt="NeoVim"/></a>
   <img width="12" />
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/></a>
-  <img width="12" />
   <a href="https://vscodium.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscodium" height="40" alt="VSCodium"/></a>
+  <img width="12" />
+  <a href="https://www.vim.org" target="_blank"><img src="https://skillicons.dev/icons?i=vim" height="40" alt="Vim"/></a>
+  <img width="12" />
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/></a>
   <img width="12" />
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/></a>
   <img width="12" />
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash"/></a>
+  <img width="12" />
+  <a href="https://github.com/tmux/tmux" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" height="36" alt="Tmux"/></a>
   <img width="12" />
   <a href="https://microsoft.com/powershell" target="_blank"><img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell"/></a>
   <img width="12" />
