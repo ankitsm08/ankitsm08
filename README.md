@@ -213,7 +213,9 @@ Basically, if it's geeky, I'm probably into it!
 <div align="center">
   
   [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ankitsm08&show_icons=true&theme=github_dark)](https://github.com/ankitsm08)
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ankitsm08&theme=discord-old-blurple&background=0D1117&border_radius=7.5&card_width=360)](https://github.com/ankitsm08)
+
+  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ankitsm08&theme=discord-old-blurple&background=0D1117&border_radius=7.5)](https://github.com/ankitsm08)
+  
   <!--- [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ankitsm08&theme=github_dark)](https://github.com/ankitsm08) --->
 </div>
 
