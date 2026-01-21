@@ -184,6 +184,8 @@ Basically, if it's geeky, I'm probably into it!
   <img width="12" />
   <a href="https://www.gimp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" height="40" alt="GIMP"/></a>
   <img width="12" />
+  <a href="https://kdenlive.org/" target="_blank"><img src="https://invent.kde.org/uploads/-/system/project/avatar/19/256-apps-kdenlive.png" height="40" alt="Kdenlive"/></a>
+  <img width="12" />
   <a href="https://www.blender.org/" target="_blank"><img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender"/></a>
   <img width="12" />
   <a href="https://www.audacityteam.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/audacity.svg" height="34" alt="Audacity"/></a>
