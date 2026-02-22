@@ -79,7 +79,7 @@ Basically, if it's geeky, I'm probably into it!
   <img width="12" />
   <a href="https://microsoft.com/powershell" target="_blank"><img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell"/></a>
   <img width="12" />
-  <a href="https://www.mozilla.org/firefox/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/firefox-nightly.svg" height="40" alt="Firefox"/></a>
+  <a href="https://zen-browser.app/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/zen-browser-dark.svg" height="40" alt="Zen"/></a>
   <img width="12" />
   <a href="https://brave.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/brave-dev.webp" height="40" alt="Brave"/></a>
 </p>
