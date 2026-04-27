@@ -58,7 +58,7 @@ Basically, if it's geeky, I'm probably into it!
   <img width="12" />
   <a href="https://www.kali.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kali" height="56" alt="Kali"/></a>
   <img width="12" />
-  <a href="https://www.android.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="44" width="44" alt="Android"/></a>
+  <a href="https://www.android.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" alt="Android"/></a>
 </p>
 
 <h4 align="center"> Developer Toolchain & Ecosystem </h4>
@@ -116,6 +116,8 @@ Basically, if it's geeky, I'm probably into it!
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/></a>
   <img width="12" />
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"/></a>
+  <img width="12" />
+  <a href="https://www.lua.org/" target="_blank"><img src="https://skillicons.dev/icons?i=lua" height="48" alt="Lua"/></a>
 </p>
 
 <h4 align="center"> Web Development Stack </h4>
