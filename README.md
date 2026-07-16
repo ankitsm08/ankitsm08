@@ -9,9 +9,9 @@
 <div align="center">
 <h3 align="center">A passionate student from India.</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=2000&center=true&vCenter=true&random=true&color=736AFF&width=480&height=30&lines=Always+learning+new+things.;Continuous+coding%2C+perpetual+learning.;Coding+my+dreams+into+reality.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1600&pause=64&color=736AFF&center=true&vCenter=true&multiline=true&width=480&height=108&separator=%3C&lines=Start+by+doing+what%E2%80%99s+necessary;%3Cthen+do+what%E2%80%99s+possible;%3Cand+suddenly+you+are+doing+the+impossible.%3C++++++++++++++++++++++++++++++++++++~+Francis+of+Assisi++++++++++++++++)](https://github.com/ankitsm08)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ankitsm08&color=blueviolet&style=for-the-badge)
+[![Profile Views](https://komarev.com/ghpvc/?username=ankitsm08&color=blueviolet&style=for-the-badge)](https://github.com/ankitsm08)
 </div>
 
 
@@ -19,26 +19,36 @@
 
 <table align="center"><tr><td>
 <div align="center">
-  
+
+---
+
 I'm an 19-year-old nerd who loves everything from code to quarks. <br> Currently with an unhealthy obsession for computers, programming, data, <br> mathematics and physics... the kind that keeps me up at 3 AM.  
 
 When I'm not buried in books or battling equations, <br> you’ll find me out there engineering systems, building applications, playing with robotics, <br> automating every damn thing in my sight, or messing around in my homelab.  
 
 Basically, if it's geeky, I'm probably into it!
+
+---
+
 </div>
 </td></tr></table>
 
 <h3 align="center"> Interests </h3>
 <table align="center"><tr><td>
-<div align="center">
-  
-📚 Love for puzzles and problems ❔
-  
-♟️ Enjoy playing **chess and checkers** ⚪
+<div align="center">  
 
-🏸 Occasionally play **badminton** 🎾
+---
 
-📺 Like to watch **anime and movies** in free time 🎬
+📚 Love to solve **puzzles** and **problems** ❔
+
+♟️ Enjoy playing **chess** and **video games** 🎮
+
+🏸 Occasionally play **badminton** and go for **runs** 🏃‍➡
+
+📺 Like to watch **anime** and **movies** in free time 🎬
+
+---
+
 </div>
 </td></tr></table>
 
@@ -218,9 +228,8 @@ Basically, if it's geeky, I'm probably into it!
   
   [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ankitsm08&show_icons=true&theme=github_dark)](https://github.com/ankitsm08)
 
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ankitsm08&theme=discord-old-blurple&background=0D1117&border_radius=7.5)](https://github.com/ankitsm08)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ankitsm08&theme=discord-old-blurple&border_radius=7.5&date_format=M%20j%5B%2C%20Y%5D&background=0D1117)](https://github.com/ankitsm08)
   
-  <!--- [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ankitsm08&theme=github_dark)](https://github.com/ankitsm08) --->
 </div>
 
 <div align="center">
